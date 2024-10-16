@@ -1,6 +1,5 @@
 ## Hi there 👋
 
- [![MasterHead](https://www.anyrgb.com/en-clipart-cydka)
 
 <h1 align="center">Hi 👋, I'm Kübra</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
